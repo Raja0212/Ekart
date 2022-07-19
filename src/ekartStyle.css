@@ -1,0 +1,73 @@
+.productDisplayLayout{
+    display: flex;
+    margin-top: 30px;
+    /* width: 1000px;
+    height: 1000px;
+    max-width: 1000px; */
+}
+
+.navContent{
+    font-style:italic;
+    color:white;
+    font-weight:bold;
+}
+
+.cartEmptyMessage{
+    display: inline-block;
+    position: fixed;
+    top: 20%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.cardStyle{
+    width:250px;
+    margin-right:13px
+}
+
+#buttonFontSize{
+    font-size: 13px;
+}
+
+.cardTitleStyle{
+    font-family: monospace;
+}
+
+.cardPriceStyle{
+    font-style:italic;
+    font-weight: bold
+}
+
+.italic{
+    font-style:italic;
+}
+
+.flex{
+    display: flex;
+}
+
+.rightAlign{
+    float: right;
+    /* margin: 10px; */
+}
+
+.error{
+    font-style:italic;
+    color:red
+}
+
+.loginPanel{
+    display:inline-block;
+    position:fixed;
+    width:30%;
+    margin:auto;
+    top:25%;
+    left:35%;
+    padding:10px
+}
+
+select{
+    border: 1px solid black;
+    font-family: sans-serif;
+}

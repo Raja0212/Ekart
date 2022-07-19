@@ -1,0 +1,56 @@
+[
+    {
+        "productId" :1 ,
+        "productName" : "Adidas Shoe" ,
+        "price" : 1299 ,
+        "rating":4,
+        "category":"Shoes",
+        "color":"Black",
+        "brand":"Adidas",
+        "image":"https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/449c838942da409f8ba9a97f00d3cffe_9366/Runfalcon_Shoes_Black_F36199_F36199_01_standard.jpg"
+    },
+
+    { 
+        "productId" :2 , 
+        "productName" : "HP Envy Laptop" , 
+        "price" : 89900 , 
+        "rating":3,
+        "category":"Laptops",
+        "color":"Blue",
+        "brand":"HP",
+        "image":"https://in-media.apjonlinecdn.com/catalog/product/cache/314dec89b3219941707ad62ccc90e585/3/S/3S960PA-1_T1594096831.png"
+    },
+
+    { 
+        "productId" :3 , 
+        "productName" : "Fastrack Men Watch" , 
+        "price" : 1499,
+        "rating":4,
+        "category":"Watches",
+        "color":"Black",
+        "brand":"Fastrack",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRApQ_5YCFWNTSQvmTBj0lE7vYN2l3YhQGcfQ&usqp=CAU"
+    },
+
+    { 
+        "productId" :4 , 
+        "productName" : "Puma Tshirt Men" , 
+        "price" : 499 , 
+        "rating":3.5,
+        "category":"Clothings",
+        "color":"Black",
+        "brand":"Puma",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCSdz4PYVw-FdX6QxHnu2QSHecuUkDHZ6qzw&usqp=CAU"
+    },
+
+    { 
+        "productId" :5 , 
+        "productName" : "Iphone 11 pro max" , 
+        "price" : 99999 , 
+        "rating":4,
+        "category":"Mobiles",
+        "color":"Black",
+        "brand":"Apple",
+        "image":"https://media.wired.com/photos/5e9f56f143e5800008514457/1:1/w_1277,h_1277,c_limit/Gear-Feature-Apple_new-iphone-se-white_04152020.jpg"
+    }
+]
